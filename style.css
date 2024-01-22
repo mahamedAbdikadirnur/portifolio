@@ -1,0 +1,44 @@
+section{
+    margin: 10px;
+    width: 100px;
+    height: 10px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+nav{
+    height: 40px;
+}
+button{
+  height:25px;  
+
+}
+.mhd{
+
+font-size: 7px;
+margin-left: 200px;
+margin-top:-10px;
+
+}
+.king{
+    background-color: black;
+}
+.M12{
+    display: inline;
+    display: flex;
+
+    font-size: 5px;
+    
+}
+.mahamed{
+
+
+text-align: center;
+}
+.mm{
+   text-align: center; 
+    font-size: small;
+     
+}
+.man{
+    background-color:darkgrey;
+}
